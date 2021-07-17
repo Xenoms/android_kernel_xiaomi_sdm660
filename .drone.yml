@@ -1,12 +1,12 @@
 kind: pipeline
-name: ❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❙❙❚
-
+type: docker
+name: Rolle
 clone:
   depth: 1
 
 steps:
 - name: Building
-  image: fadlyas/kernel_dockerfile
+  image: z4nyx/docker:latest
   environment:
     bot_token:
       from_secret: bot_token
