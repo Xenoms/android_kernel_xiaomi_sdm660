@@ -1,8 +1,8 @@
 #!/bin/bash
 
-export KERNELNAME=❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❙❙❚ 
+export KERNELNAME=Rolle
 
-export LOCALVERSION=❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❙❙❚
+export LOCALVERSION=Beta
 
 export KBUILD_BUILD_USER=DevilRush_org
 
